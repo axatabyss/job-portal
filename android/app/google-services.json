@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "477631626515",
+    "project_id": "job-portal-bfe7e",
+    "storage_bucket": "job-portal-bfe7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477631626515:android:0d6d47213ec3b8f4052ee6",
+        "android_client_info": {
+          "package_name": "com.axat.job_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477631626515-2duivp7sce4dv5jpkusgrlbn1nmmp6pu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.axat.job_portal",
+            "certificate_hash": "9ebc72495c85b2f8c434050cec35a5feedba4dfc"
+          }
+        },
+        {
+          "client_id": "477631626515-kc8346ctgf6bespr3ek9kmug2mojmhoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATpwgWjY0N23kSaOlF-DPykKkoJOqsYLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477631626515-kc8346ctgf6bespr3ek9kmug2mojmhoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

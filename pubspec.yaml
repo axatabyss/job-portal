@@ -1,0 +1,54 @@
+name: job_portal
+description: "Job Portal Assignment App"
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+
+environment:
+  sdk: '>=3.4.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Main
+  get: ^4.6.6
+  dio: ^5.4.1
+
+  # Utils
+  intl: ^0.19.0
+  equatable: ^2.0.5
+  google_fonts: ^6.2.1
+  url_strategy: ^0.3.0
+  fluttertoast: ^8.2.2
+  cupertino_icons: ^1.0.8
+  connectivity_plus: ^3.0.3
+  another_flushbar: ^1.12.30
+  shared_preferences: ^2.2.0
+  cached_network_image: ^3.3.0
+
+  # Responsive
+  gap: ^3.0.1
+  flutter_screenutil: ^5.9.0
+
+  # Firebase
+  firebase_core: ^3.3.0
+  firebase_auth: ^5.1.3
+  google_sign_in: ^6.2.1
+
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  assets:
+    - assets/icons/
+    - assets/images/
+
+
+  uses-material-design: true
